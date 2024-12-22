@@ -24,7 +24,7 @@ I'm Jean-Eudes Assogba, a passionate software engineering student with a strong 
 
 **My Portfolio:**
 
-Feel free to check out my portfolio for a glimpse of my work: [Jean-Eudes Assogba Portfolio](jeaneudes-dev.github.io)
+Feel free to check out my portfolio for a glimpse of my work: [Jean-Eudes Assogba Portfolio](eaneudes-dev.github.io/portfolios/)
 
 **How to reach me:**
 
