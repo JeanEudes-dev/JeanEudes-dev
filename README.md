@@ -1,42 +1,68 @@
 ## Jean-Eudes Assogba (@JeanEudes-dev)
 
-**Welcome!**
+### 👋 Welcome!
 
-I'm Jean-Eudes Assogba, a passionate software engineering student with a strong interest in building innovative and user-friendly applications. I'm proficient in various programming languages and frameworks, including:
+I'm **Jean-Eudes Assogba**, a passionate Full-Stack Developer and AI Engineer. I specialize in building intelligent, scalable, and visually polished applications using technologies like React, TypeScript, Django, and Python.
 
-* Python
-* React
-* C++
-* HTML
-* CSS
+### 🚀 About Me
 
-**I'm currently:**
+* 🎓 Software Engineering Student
+* 🛠 Full-Stack Developer | AI/ML Enthusiast
+* 🌐 Advocate for smart UX, production-quality code, and cutting-edge web tech
 
-* Honing my skills in software engineering principles and best practices.
-* Exploring the frontiers of modern web development technologies.
-* Seeking opportunities to contribute to impactful projects.
+### 💼 Flagship Projects
 
-**I'm looking to collaborate on:**
+#### 🔷 BrollyHub *(Private Repo)*
 
-* Open-source projects that align with my interests and skillset.
-* Real-world projects that offer challenges and opportunities to learn.
-* Collaborative efforts with other developers to create meaningful applications.
+An AI-powered expert marketplace platform with real-time scheduling, collaborative tools, and dynamic offer matching.
 
-**My Portfolio:**
+* React + Vite + TypeScript frontend
+* Django + PostgreSQL + JWT backend
+* AI agents for in-app navigation and offer recommendations
+* Deployed on GCP 
 
-Feel free to check out my portfolio for a glimpse of my work: [Jean-Eudes Assogba Portfolio](eaneudes-dev.github.io/portfolios/)
+#### 🎓 Aveem University System *(Private Repo)*
 
-**How to reach me:**
+Enterprise-grade academic management system built from scratch.
 
-* Email: jeudesmails@gmail.com
-* Linkedin: https://linkedin.com/in/jean-eudes-assogba-3265ba257
-* X (Twitter): https://twitter.com/Eudes_asg
+* Role-based access, grading, finance, notifications, Smart Emailing System.
+* Hosted on AWS EC2 | React + Django stack
 
-**I'm always open to:**
+#### 🛠 Renosmarter.ai – Internship
 
-* Connecting with other developers.
-* Learning from experienced professionals.
-* Contributing my skills to worthwhile projects.
+AI cost estimation tool using Voiceflow, Airtable, and prompt engineering.
 
-**Looking forward to collaborating!**
+* Streamlined flows for estimating renovation costs
+* Improved pricing logic accuracy by 35%
 
+> 📝 *Screenshots, architecture diagrams, and details available on request.*
+
+### 🔧 Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, HTML, CSS, C++
+**Frameworks:** React, Next.js, Vite, Django, Flask
+**Databases:** PostgreSQL, Supabase, Firebase
+**Tools:** Git, Docker, GCP, Linux, Voiceflow
+**AI/ML:** GPT-4, Prompt Engineering, LangChain, LLM Integration
+
+### 🔍 Currently Exploring
+
+* Scalable serverless architectures
+* AI-powered UX and automation
+* Production-grade frontend performance techniques
+
+### 📬 Contact
+
+* ✉️ Email: [jeudesmails@gmail.com](mailto:jeudesmails@gmail.com)
+* 💼 LinkedIn: [jean-eudes-assogba](https://linkedin.com/in/jean-eudes-assogba-3265ba257)
+* 🐦 X/Twitter: [@Eudes\_asg](https://twitter.com/Eudes_asg)
+
+### 🔗 Portfolio
+
+Check out my work: [jeaneudes-dev.github.io/portfolios](https://jeaneudes-dev.github.io/portfolios/)
+
+---
+
+Let's build something impactful together. I'm always open to collaboration, learning, and creating smart solutions.
+
+> *“Code is not just about logic — it's about impact.”*
