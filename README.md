@@ -1,112 +1,100 @@
 <div align="center">
 
-# **Jean‑Eudes Assogba**
+# **Jean-Eudes Assogba**
 
-**Full‑Stack & AI Engineer**
+### **Backend Systems Engineer (Python/Django)**
+Scalable APIs • PostgreSQL • Production AI Integration • Cloud Deployments
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open-111?style=for-the-badge\&logo=vercel)](https://jeaneudes-dev.github.io/portfolios/)
-[![GitHub](https://img.shields.io/badge/GitHub-JeanEudes--dev-111?style=for-the-badge\&logo=github)](https://github.com/JeanEudes-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/jean-eudes-assogba)
-[![Email](https://img.shields.io/badge/Email-eudesmails%40gmail.com-D14836?style=for-the-badge\&logo=gmail)](mailto:eudesmails@gmail.com)
-
-**I build production‑grade web apps — fast, scalable, and elegant.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-111?style=for-the-badge&logo=vercel)](https://jeaneudes-dev.github.io/portfolios/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jean-eudes-assogba)
+[![Email](https://img.shields.io/badge/Email-eudesmails%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:eudesmails@gmail.com)
 
 </div>
 
 ---
 
-## ✨ Highlights
+## 🚀 What I Do
 
-* 🚀 Shipped **20+** production apps/sites (React/Next.js + Django/FastAPI) with measurable outcomes.
-* 🤖 Integrated **AI agents** and LLM features that **automate UI flows** and boost completion rates.
-* 🧱 End‑to‑end ownership: architecture → APIs → polished UI → CI/CD → cloud deploy (AWS/GCP/Vercel/Render).
-* 📈 Obsessed with **performance budgets**, type‑safety, testing, and maintainable codebases.
+I design and own production-grade backend systems using **Python and Django** — from domain modeling and API contracts to database optimization, observability, and cloud deployment.
 
----
-
-## 🧰 Core Stack (at a glance)
-
-<div align="left">
-
-| Frontend                                                                                                                                                                                                                                                           | Backend                                                                                                                                       | Data/Infra                                                                                                                                                                            | AI/ML                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22"/> TypeScript • Next.js • Vite • Tailwind | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="22"/> Django/DRF • Flask • FastAPI • WebSockets | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="22"/> PostgreSQL • Supabase • Firebase • Docker • CI/CD • AWS • GCP • Render | GPT‑4/4.1 • LangChain • Prompt Systems • Pinecone • Cloudinary |
-
-</div>
+My focus is reliability, scalability, and long-term maintainability.  
+I specialize in integrating AI into real-world platforms safely and predictably.
 
 ---
 
-## 💼 Experience
+## 🧱 Backend Expertise
 
-**Full‑Stack Software Engineer — BrollyHub** *(03/2023 – Present)*
-*React (Vite+TS), Django REST, PostgreSQL, JWT, WebSockets, GCP*
+- **REST API Design** — versioning, idempotency, pagination, rate limiting
+- **PostgreSQL Optimization** — schema design, composite indexing, query analysis (EXPLAIN)
+- **Caching & Async Tasks** — Redis, Celery, retry strategies, background processing
+- **AI Integration Layers** — structured output validation, multi-provider fallback routing
+- **Observability** — structured logging, error tracking, uptime monitoring
+- **CI/CD & Deployment** — Docker, GitHub Actions, AWS/GCP, Nginx
 
-* Built an AI‑powered expert marketplace **serving 500+ users** end‑to‑end.
-* Implemented **Brolly AI**: UI navigation + function execution agents → workflow automation.
-* Real‑time messaging, notifications, calendar, and file‑shelf features; secure multi‑session JWT flows.
-
-**AI Software Engineer — PM‑Accelerator (RenoSmarterAI)** *(02/2024 – 08/2024)*
-*Django REST, React TS, Tailwind, Pinecone, Supabase, Cloudinary, Render • GPT‑4o, Gemini, Stability*
-
-* Rebuilt legacy Voiceflow into a production web app with an **8‑stage** renovation workflow.
-* Multi‑model AI for style discovery, estimation & visualization → **+81% pricing accuracy**, **+40% funnel completion**.
-
-**Frontend Developer & Web Architect — Rauf Denktas University** *(06/2023 – Present)*
-
-* Led redesign of the university site; built Club Management used by **10+ clubs / 2,000+ students** → **+50% engagement**.
-
-**Freelance Full‑Stack Developer** *(01/2021 – Present)*
-
-* Delivered **20+** production sites/apps; modernized legacy stacks → **\~60% perf improvement** on average.
+I build systems that continue working under load — not just demos that look good.
 
 ---
 
-## 🏗️ Featured Projects
+## 💼 Production Experience
 
-**BrollyHub — AI Expert Marketplace**
+### **Backend Engineer — BrollyHub**
+AI-powered expert marketplace (500+ active users, 15k+ API requests/day)
 
-> Real‑time marketplace with autonomous agent, calendar, messaging, file shelf; JWT & multi‑session flows.
-
-**RenoSmarterAI — Home Renovation Platform**
-
-> 8‑stage workflow; multi‑model AI (GPT‑4o, Gemini, Stability) → **+81% accuracy**, **+40% completion**.
-
-**Aveem University Management System (AWS EC2)**
-
-> ERP for finance, grading, enrollment; role‑based access; real‑time data sync.
-
-**Dynamiqtec — Multilingual Tech Blog & Portfolio**
-
-> Next.js + MDX; black/white minimalist aesthetic; Gemma‑assisted translation pipeline.
+- Designed modular Django REST backend with clear domain boundaries (matching, billing, messaging).
+- Reduced API latency by 60% via indexing strategy, query refactoring, and Redis caching.
+- Implemented WebSocket layer handling 100+ concurrent connections.
+- Integrated LLM-based matching workflows with deterministic validation and retry logic.
+- Maintained structured logging and production monitoring with 99%+ uptime.
 
 ---
 
-## 📊 "One‑Glance" Strengths
+### **AI Backend Engineer — RenoSmarterAI**
+AI-driven renovation estimation platform
 
-* **Product sense:** turn vague ideas into shippable, delightful software.
-* **Architecture clarity:** simple patterns, predictable modules, low cognitive load for teams.
-* **Perf + DX:** strict budgets, type‑safe APIs, pre‑commit hooks, CI quality gates.
-
----
-
-## 🎓 Education & Certs
-
-* **BSc, Software Engineering** — Rauf Denktas University *(Expected Feb 2026)* — **CGPA 4.0/4.0**
-* **IBM Full‑Stack Developer Professional Certificate** — Coursera *(2024)*
+- Rebuilt legacy prototype into modular backend architecture.
+- Improved pricing accuracy from 54% → 81% using structured validation and prompt calibration.
+- Integrated GPT-4o, Gemini, and vector search with Pinecone.
+- Implemented provider fallback routing and circuit breakers for reliability.
 
 ---
 
-## 🌍 Languages
+### **Backend Engineer — University ERP Platform**
+2,000+ daily active users
 
-**English:** Fluent • **French:** Native
+- Designed RBAC system across academic and administrative workflows.
+- Optimized database queries and indexing → 55% faster page loads.
+- Managed Linux production servers (Nginx, SSL, backups, monitoring).
 
 ---
 
-<div align="center">
+## 🏗️ Selected Systems
 
-### 🤝 Let’s work
+- **BrollyHub** — Multi-role AI marketplace with transactional workflows
+- **RenoSmarterAI** — AI estimation + vector matching platform
+- **Aveem UMS** — University management ERP with role-based access
 
-Remote‑first. Full‑time or contract. I optimise for shipping speed **and** quality.
-[![Email Me](https://img.shields.io/badge/Email-eudesmails%40gmail.com-D14836?style=for-the-badge\&logo=gmail)](mailto:eudesmails@gmail.com)
+Portfolio → https://jeaneudes-dev.github.io/portfolios/
 
-</div>
+---
+
+## 📊 Engineering Principles
+
+- Clean domain boundaries > tangled service layers
+- Measurable performance improvements > assumptions
+- Explicit transactions > hidden side effects
+- Test coverage and CI enforcement > fragile releases
+- Reliability first when integrating AI systems
+
+---
+
+## 🎓 Education
+
+**BSc Software Engineering — Rauf Denktas University**  
+CGPA: 4.0/4.0 (Expected Feb 2026)
+
+---
+
+## 🌍 Availability
+
+Remote-first • Full-time or contract  
+Open to backend-focused roles involving scalable systems and AI integration.
